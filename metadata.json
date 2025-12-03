@@ -1,0 +1,7 @@
+{
+  "name": "Lido Bar Assistant",
+  "description": "A voice-enabled operative handbook for Lido Bar staff, powered by Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
